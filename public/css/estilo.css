@@ -36,8 +36,36 @@ html, body {
 	flex-wrap: nowrap;
 }
 
-.bg-barra {
+.bg-escuro {
     background-color: #163C3F;
-    color: #DCE3EC;  
+}
+
+.bg-cinza{
+	background-color: #DCE3EC;
+}
+
+.cabecalho-branco{
+    background-color: white;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    margin: 0 auto;
     padding: 10px 0;
+	align-content: center;
+    text-align: center;
+}
+
+#centralizar{
+    text-align: center;
+    /* align-items: center; */
+    align-content: center;
+    /* justify-content: center; */
+}
+
+.fundo-opaco{
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+}
+
+.redondo{
+	border-radius: 30px;
 }
