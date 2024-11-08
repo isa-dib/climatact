@@ -4,15 +4,11 @@
     <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://avatars.githubusercontent.com/u/49880458?s=200&v=4" alt="Sistemas de Informação ESPM" style="height: 200px; width: 200px;"/></a>
 </p>
 
-# Clima Tact
+# AgroData
 
 ### 2024-02
 
 ## Integrantes
-- [Fernando Haseloff](https://github.com/caicara29/)
-- [Gabriel Cardoso](https://github.com/gabrielpmcardoso)
-- [Henrique Agondi](https://github.com/HAgondi)
-- [Isabella Marin](https://github.com/IsabellaSMarin)
 - [Isabelle Dib](https://github.com/isa-dib/)
 
 ## Descrição do Projeto
